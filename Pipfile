@@ -8,7 +8,7 @@ django = "*"
 
 [dev-packages]
 autopep8 = "*"
-pylint = "*"
+pylint-django = "*"
 
 [requires]
 python_version = "3.9"
